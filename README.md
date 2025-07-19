@@ -41,7 +41,7 @@ This project predicts whether a user will **click on an online advertisement** b
 ## How It Works
 
 - **Input**: Age and Estimated Salary of a user
-- **Output**: Binary prediction — whether the user is likely to click the ad
+- **Output**: Binary prediction, whether the user is likely to click the ad
 - **Model**: Logistic Regression with scaled features
 - **Visualization**: Scatter plot showing predicted classifications with color-coded points and legend
 
